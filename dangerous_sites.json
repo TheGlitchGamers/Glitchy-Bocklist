@@ -1,5 +1,6 @@
 {
   "dangerous_sites": [
-    "https://twitchget.com"
+    "https://twitchget.com",
+    "https://twitch.tv"
   ]
 }
